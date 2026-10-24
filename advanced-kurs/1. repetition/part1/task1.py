@@ -1,3 +1,5 @@
+# На easy
+
 from math import sqrt
 
 a, b = int(input()), int(input())
