@@ -1,0 +1,1 @@
+func = lambda text: text.lower().startswith("a") and text.lower().endswith("a")
